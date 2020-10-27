@@ -11,7 +11,7 @@
 
 #define N         500  /* Define the number of string in fib00. */
 #define NUMBER    1000   /* Define a max fibnacci number for fib00, we can change it. */
-#Programming is perfect participating in hackertobefest
+#Programming is perfect and participating in hackertobefest
 #define ALG1      1
 #define ALG2      2
 #define ALG3      3
